@@ -120,6 +120,10 @@ then the type of pdf such as 1, 2, 3
 pdf_type = 2
 ```
 
+### Result
+
+The result dirctory contains the json files for three example pdf 1, 2, 3 for correspodning output.
+
 
 ## Licensing
 
