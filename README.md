@@ -107,7 +107,18 @@ def process_pdf_revised(pdf_path, pdf_type):
 ```
 
 
+## Example Usage
 
+User must provide the pdf as below
+
+```python
+pdf_path = "example-2.pdf"  # Chane the PDF as per the type 1 or 2 or 3
+```
+then the type of pdf such as 1, 2, 3
+
+```python
+pdf_type = 2
+```
 
 
 ## Licensing
